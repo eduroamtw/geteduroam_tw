@@ -2,6 +2,7 @@
 # 已測試學校清單
 ## 支援 (PEAP-MSCHAPv2 / TTLS-PAP)
 - 教育體系單一簽入服務 (mail.edu.tw)
+- 漫遊中心測試帳號 (rc.edu.tw / admin.edu.tw)
 - 國立臺灣大學 (eduroam.ntu.edu.tw)
 - 國立臺灣師範大學 (eduroam.ntnu.edu.tw)
 - 國立臺灣科技大學 (mail.ntust.edu.tw)
