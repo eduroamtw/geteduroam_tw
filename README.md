@@ -2,7 +2,8 @@
 因為臺灣沒有官方的 geteduroam 能用，所以我手搓了一些大學的設定檔[1]。<br>
 製作這些設定檔時，參考了 `Srednja šola Jesenice` 以及 `eVA(UK) - eduroam Visitor Access UK` 的設定檔格式，在此註明。<br>
 目前僅支援認證方式為 PEAP-MSCHAPv2 / TTLS-PAP 的學校，不支援 PEAP-GTC。<br>
-設定應用程式請至 https://www.geteduroam.app/ 下載。
+設定應用程式請至 https://www.geteduroam.app/ 下載。<br>
+近期會更新更多學校的設定檔，如果有立即性需求，請參考我們的自動化生成工具 [GitHub](https://github.com/eduroamtw/eduroam_profile_generater_colab) [Colab](https://colab.research.google.com/github/eduroamtw/eduroam_profile_generater_colab/blob/main/eduroam_profile_generater_colab.ipynb)
 <!--嚴格來說不只這幾個，但有 GTC 的基本上不支援-->
 
 # 免責聲明
